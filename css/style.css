@@ -1,0 +1,86 @@
+header{
+	background-color: #2F2F2F;
+	color: #FFFFFF;
+	font-family: 'Poppins', sans-serif;
+	padding-left: 30px;
+}
+
+header h3{
+	margin-top: 150px;
+	font-weight: 650;
+	font-size: 55px;
+}
+header p{
+	margin-top: 30px;
+	font-weight: 100;
+}
+header h6{
+	margin-top: 30px;
+	font-weight: 500;
+}
+
+#sec-hero{
+	padding-left: 30px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#sec-hero h3{
+	margin-top: 90px;
+	font-weight: 500;
+	font-size: 50px;
+}
+#sec-hero p{
+	margin-top: 30px;
+	font-weight: 100;
+}
+#sec-hero h6{
+	margin-top: 30px;
+	font-weight: 500;
+}
+#titulo{
+	text-align: center;
+	margin-top: 95px;
+}
+#titulo h1{
+	font-weight: 600;
+}
+
+#primera{
+	margin-top: 90px;
+}
+#segunda{
+	margin-top: 40px;
+}
+
+#producto{
+	background-color: #FDEADC;
+	padding: 20px 0;
+}
+
+#shampoo{
+	margin-left: 50px;
+}
+#producto h3{
+	margin-top: 350px;
+	font-size: 40px;
+	font-weight: 700;
+}
+#producto p{
+	margin-top: 30px;
+	font-weight: 100;
+}
+
+#personajes{
+	padding-left: 50px;
+	text-align: center;
+}
+#personajes p{
+	margin-top: 60px;
+}
+
+
+
+#contact{
+	padding: 70px 0;
+}
